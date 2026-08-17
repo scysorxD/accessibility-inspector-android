@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Accessibility Inspector</string>
+    <string name="accessibility_service_description">Accessibility Inspector lee la jerarquía de accesibilidad de la pantalla activa y la guarda localmente para pruebas de diagnóstico. No envía datos por Internet ni realiza acciones automáticas.</string>
+    <string name="share_log_title">Compartir registro de accesibilidad</string>
+    <string name="share_log_subject">Cabify Accessibility Inspector Log</string>
+</resources>
